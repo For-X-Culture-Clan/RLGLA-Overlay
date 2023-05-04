@@ -72,7 +72,6 @@ Some of the provided information:
 
 ### Built With
 
-* [![React][React.js]][React-url]
 * [![HTML5][HTML5.com]][HTML5-url]
 * [![CSS][CSS.com]][CSS-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
@@ -142,7 +141,7 @@ Below is a list resources we find helpful and would like to give credit to.
 [issues-shield]: https://img.shields.io/github/issues/For-X-Culture-Clan/RLGLA-Overlay.svg?style=for-the-badge
 [issues-url]: https://github.com/For-X-Culture-Clan/RLGLA-Overlay/milestones?with_issues=no
 [license-shield]: https://img.shields.io/github/license/For-X-Culture-Clan/RLGLA-Overlay.svg?style=for-the-badge
-[license-url]: https://github.com/For-X-Culture-Clan/RLGLA-Overlay/LICENSE
+[license-url]: https://github.com/For-X-Culture-Clan/RLGLA-Overlay/blob/main/LICENSE
 [CSS.com]: https://img.shields.io/badge/CSS3-0000FF?style=for-the-badge&logo=CSS3&logoColor=white
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [HTML5.com]: https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=HTML5&logoColor=white
