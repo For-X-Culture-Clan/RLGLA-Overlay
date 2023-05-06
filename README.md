@@ -57,13 +57,13 @@ The Rocket League Gaming League Association (RLGLA) is an esports organization t
 The overlay is comprised of a few parts: 
 1. BakkesMod plugin: to pull data from RL
 2. Websocket relay: to send data 
-3. OBS (or other streaming service) browsersource; to receive the data and apply it to the GUI. 
+3. OBS (or other streaming service) browser source: to receive the data and apply it to the GUI. 
 
 Some of the provided information:
-• Boost amount per player at all times
-• Notifications for certain game events (goal scored, countdown started, game ended, etc.)
-• Player stats (goals, assists, saves etc.)
-• Team information (name, score)
+* Boost amount per player at all times
+* Notifications for certain game events (goal scored, countdown started, game ended, etc.)
+* Player stats (goals, assists, saves etc.)
+* Team information (name, score)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
